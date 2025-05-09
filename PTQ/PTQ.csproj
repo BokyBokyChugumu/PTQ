@@ -15,4 +15,11 @@
       <Folder Include="src\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\PTQ.API\PTQ.API.csproj" />
+      <ProjectReference Include="..\PTQ.Application\PTQ.Application.csproj" />
+      <ProjectReference Include="..\PTQ.Models\PTQ.Models.csproj" />
+      <ProjectReference Include="..\PTQ.Repositories\PTQ.Repositories.csproj" />
+    </ItemGroup>
+
 </Project>

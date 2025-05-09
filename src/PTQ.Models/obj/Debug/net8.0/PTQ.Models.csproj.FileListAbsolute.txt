@@ -1,0 +1,12 @@
+D:\study\CSharp\PTQ\PTQ.Models\bin\Debug\net8.0\PTQ.Models.deps.json
+D:\study\CSharp\PTQ\PTQ.Models\bin\Debug\net8.0\PTQ.Models.dll
+D:\study\CSharp\PTQ\PTQ.Models\bin\Debug\net8.0\PTQ.Models.pdb
+D:\study\CSharp\PTQ\PTQ.Models\obj\Debug\net8.0\PTQ.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\CSharp\PTQ\PTQ.Models\obj\Debug\net8.0\PTQ.Models.AssemblyInfoInputs.cache
+D:\study\CSharp\PTQ\PTQ.Models\obj\Debug\net8.0\PTQ.Models.AssemblyInfo.cs
+D:\study\CSharp\PTQ\PTQ.Models\obj\Debug\net8.0\PTQ.Models.csproj.CoreCompileInputs.cache
+D:\study\CSharp\PTQ\PTQ.Models\obj\Debug\net8.0\PTQ.Models.sourcelink.json
+D:\study\CSharp\PTQ\PTQ.Models\obj\Debug\net8.0\PTQ.Models.dll
+D:\study\CSharp\PTQ\PTQ.Models\obj\Debug\net8.0\refint\PTQ.Models.dll
+D:\study\CSharp\PTQ\PTQ.Models\obj\Debug\net8.0\PTQ.Models.pdb
+D:\study\CSharp\PTQ\PTQ.Models\obj\Debug\net8.0\ref\PTQ.Models.dll
